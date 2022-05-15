@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652579968 source:c:\cursos e treinamentos\linguagem-c\aula 02 - criando o primeiro programa\iniciando_com_variaveis\main.c
+	<stdio.h>
+	<stdlib.h>
+
