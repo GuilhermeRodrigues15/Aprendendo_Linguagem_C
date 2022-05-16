@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652664636 source:c:\cursos e treinamentos\linguagem-c\desafios_uri\iniciantes\bee_1002\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
